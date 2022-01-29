@@ -10,14 +10,7 @@
 - ⚡ Fun fact: I love to swim and play badminton 🎱.
 
 ---
-<!-- 
-### Contact me 📝
 
- -->
-
-<br />
-
----
 
 ### Languages and Tools 🛠 
 
@@ -55,8 +48,9 @@
 
 ---
 
----
+### Contact me 📝
 
-[website]: https://iamjamesjose.com/
-[instagram]: https://www.instagram.com/iamjamesjose
-[linkedin]: https://www.linkedin.com/in/iamjamesjose/
+
+<br />
+
+---
